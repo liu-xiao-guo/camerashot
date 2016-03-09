@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=camerashot
+Exec=camerashot
+Icon=camerashot/camerashot.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

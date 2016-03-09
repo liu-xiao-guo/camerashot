@@ -1,0 +1,17 @@
+{
+    "name": "camerashot.liu-xiao-guo",
+    "description": "description of camerashot",
+    "architecture": "@CLICK_ARCH@",
+    "title": "camerashot",
+    "hooks": {
+        "camerashot": {
+            "apparmor": "camerashot/camerashot.apparmor",
+            "desktop":  "camerashot/camerashot.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

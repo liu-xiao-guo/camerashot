@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>images/icon-left-arrow.png</file>
+    </qresource>
+</RCC>
